@@ -1,0 +1,5 @@
+discord.py
+aiohttp
+edge-tts
+duckduckgo-search
+python-dotenv
